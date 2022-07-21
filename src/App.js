@@ -1,5 +1,7 @@
 import './App.css';
+/* eslint-disable no-unused-vars */
 import firebase from "./FirebaseConfig";
+/* eslint-enable no-unused-vars */
 
 function App() {
   return (
